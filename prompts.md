@@ -1,0 +1,1 @@
+Provide me a zip with 10 simple processing examples. each examples should be placed in a dedicated directory. The name of the directory should start with a number. e.g. 03\*circle*animation. The prefix number of the directories should start with "51*".
